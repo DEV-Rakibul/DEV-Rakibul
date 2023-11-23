@@ -7,6 +7,8 @@ May 2021 - I started C++ but not for too long
 October 2022 - I started HTML, CSS and JAVASCRIPT. Learnt to replicate websites.
 Match 2022 - Moved onto Object Oriented Programming in Python.
 April 2022 - I started Android Mobile Development
+September - 2023 - I started Full Stack Web Development. 
+October 2023 - I started roblox game development using Lua
 
 
 I am looking forward to work for a big company, such as facebook or to create my own software and videogames!
